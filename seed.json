@@ -1,0 +1,111 @@
+
+[
+  {
+    "mediaSource": "thebulwark",
+    "did": "did:plc:aunpu65mdrhwfie7ynymlzeh",
+    "handle": "thebulwark.com",
+    "displayName": "The Bulwark",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreifbksyx6issakl3nm3jcufnuguosomm72mjwqgxeqbpbybktii5vq@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreighzwg6a7g3kit6o7zqpsjzeg5epl6od5btl2t6cl7p67szyen5uu@jpeg"
+  },
+  {
+    "mediaSource": "nytimes",
+    "did": "did:plc:eclio37ymobqex2ncko63h4r",
+    "handle": "nytimes.com",
+    "displayName": "The New York Times",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidvvqj5jymmpaeklwkpq6gi532el447mjy2yultuukypzqm5ohfju@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreidlzzmt7sy2n6imz5mg7siygb3cy4e526nvbjucczeu5cutqro5ni@jpeg"
+  },
+  {
+    "mediaSource": "meidastouch",
+    "did": "did:plc:xjc7mkotpenvhh6ffewkdpyn",
+    "handle": "meidastouch.com",
+    "displayName": "Meidas Touch",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xjc7mkotpenvhh6ffewkdpyn/bafkreifmocqyainrhqyrla3lewf7xb6mj3vqchd73iefmumh6hs6jtdcmy@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xjc7mkotpenvhh6ffewkdpyn/bafkreihxunokudx3m2iassogjgv6yur4iulejjftp3asukhtagonauv7ta@jpeg"
+  },
+  {
+    "mediaSource": "techcrunch",
+    "did": "did:plc:vtpyqvwce4x6gpa5dcizqecy",
+    "handle": "techcrunch.com",
+    "displayName": "TechCrunch",
+    "type": "technology",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vtpyqvwce4x6gpa5dcizqecy/bafkreibox2utvy4ybplgp4bq7wgmzetiyvmgxvnshnk7q7qjhxt452l2um@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vtpyqvwce4x6gpa5dcizqecy/bafkreihma577xudxxbjg3fkhe5ddolv7uqerpmz2nwesvuguslqn42o7eu@jpeg"
+  },
+  {
+    "mediaSource": "cnn",
+    "did": "did:plc:dzezcmpb3fhcpns4n4xm4ur5",
+    "handle": "cnn.com",
+    "displayName": "CNN",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreieh4mn56re4rw5xtue6k6anahlhclwhib2k7ucwqcuyihszftmz5e@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreibrdwvex2ygkqm5rblfcnrzmjnkzlkdcchzd7phtd67qzghvseq54@jpeg"
+  },
+  {
+    "mediaSource": "theatlantic",
+    "did": "did:plc:nyxviptfyic2lvuorkr5yy3y",
+    "handle": "theatlantic.com",
+    "displayName": "The Atlantic",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nyxviptfyic2lvuorkr5yy3y/bafkreigwvzckuvpkbt7yf7q4reavcpxmy4g4gxvyyfbum4nndfrdt6d3mm@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nyxviptfyic2lvuorkr5yy3y/bafkreid7acksdp63dkg2bvv25bmxymeg3kgchr3plk47ny3bjvm24dnyou@jpeg"
+  },
+  {
+    "mediaSource": "washingtonpost",
+    "did": "did:plc:k5nskatzhyxersjilvtnz4lh",
+    "handle": "washingtonpost.com",
+    "displayName": "The Washington Post",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicx5ybi5wukvetsv3m74z3nmvbvrdhgms6sr4nlilrktv5u2lmsay@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreidt7qcsz63c6ngwdl4zr4wxv5nsd3sy6itmacph2wzaq43onmue5e@jpeg"
+  },
+  {
+    "mediaSource": "politico",
+    "did": "did:plc:yf6hctt2ug3qyfty4in64yob",
+    "handle": "politico.com",
+    "displayName": "Politico",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yf6hctt2ug3qyfty4in64yob/bafkreid3rrarj36xsctgqpt7wlr2iv7yuzo3vixvtgxk4ryzx2pdnunfwu@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yf6hctt2ug3qyfty4in64yob/bafkreiadl2hgmojpvqgwycuhpmkz6uwt4uqmb5bkkus52kuwdml7z47qi4@jpeg"
+  },
+  {
+    "mediaSource": "epic",
+    "did": "did:plc:gl3pjb7agaddlrpjiful53c3",
+    "handle": "epic.org",
+    "displayName": "EPIC",
+    "type": "technology",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gl3pjb7agaddlrpjiful53c3/bafkreibk3wlvelj7a2jcuj6xtacs3n6cmq7f7pux3gfbbbv4dscalmuc6m@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gl3pjb7agaddlrpjiful53c3/bafkreie4hoam6uy6wov4g2mevdx7g5yeil3zizzonwtx3dddmj2kykvyx4@jpeg"
+  },
+  {
+    "mediaSource": "arstechnica",
+    "did": "did:plc:wld6fad6xsm4tz4kfkoikun2",
+    "handle": "arstechnica.com",
+    "displayName": "Ars Technica",
+    "type": "technology",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wld6fad6xsm4tz4kfkoikun2/bafkreibsyn6bmrzbwbmm3u72yarrrvjgdqvteoe7io7ibdbu43iwweecsm@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wld6fad6xsm4tz4kfkoikun2/bafkreicugfquhi4gmk3zfa4tjg5kikvcjhptrbhj6fqcd6ruvc465rlkrq@jpeg"
+  },
+  {
+    "mediaSource": "404media",
+    "did": "did:plc:vcepp6trx4vpe5ourxso4tjl",
+    "handle": "404media.co",
+    "displayName": "404 Media",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreiee23yjug2vlf3b3dj6lws32iqoug3jd6y5ciwvgo5qf2rc2wgfli@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreihnoyqsda6zgryag22an4tbzsfxb5twsuzzalougq7yygqhp6354a@jpeg"
+  },
+  {
+    "mediaSource": "freedompress",
+    "did": "did:plc:ddc4e2e5gie5qzys5dnr36s3",
+    "handle": "freedom.press",
+    "displayName": "Freedom of the Press Foundation",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddc4e2e5gie5qzys5dnr36s3/bafkreid2ybatensi3d6xt5btzuzwrxlaattpghvpuejy4rj7m2kynbhwbu@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddc4e2e5gie5qzys5dnr36s3/bafkreigwsqor7mhj55edgfslfyr3zvrvxhg4gikz2ffmo4uz57ixegav24@jpeg"
+  }
+]
