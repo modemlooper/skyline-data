@@ -161,5 +161,14 @@
     "type": "news",
     "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4r42hbtyzfmbblk6u55uqzes/bafkreia2dn6b7en3h5uecvg26ghz5l6qe5wtab7fpzmkyuy4pnilgxmztm@jpeg",
     "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4r42hbtyzfmbblk6u55uqzes/bafkreiamqudqglyn6d4prkki7edpmidhdkbas434jlepleg7mhlujcv2ve@jpeg"
+  },
+  {
+    "mediaSource": "businessinsider",
+    "did": "did:plc:azsiq6a5plbpa7ekw7pdrnum",
+    "handle": "businessinsider.com",
+    "displayName": "Business Insider",
+    "type": "businees",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:azsiq6a5plbpa7ekw7pdrnum/bafkreiai7si76ocpq63y2ji6n2l5jjgtvc4pjbtftgzrwtqwfi2oqlivvm@jpeg",
+    "banner": ""
   }
 ]
