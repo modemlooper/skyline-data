@@ -108,7 +108,7 @@
     "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddc4e2e5gie5qzys5dnr36s3/bafkreid2ybatensi3d6xt5btzuzwrxlaattpghvpuejy4rj7m2kynbhwbu@jpeg",
     "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddc4e2e5gie5qzys5dnr36s3/bafkreigwsqor7mhj55edgfslfyr3zvrvxhg4gikz2ffmo4uz57ixegav24@jpeg"
   },
-    {
+  {
     "mediaSource": "propublica",
     "did": "did:plc:k4jt6heuiamymgi46yeuxtpt",
     "handle": "propublica.org",
@@ -117,7 +117,7 @@
     "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k4jt6heuiamymgi46yeuxtpt/bafkreidko5lm3nqgotjllgsqmy5oxexmam2kibrv6uplbxjiwqec2wn7ry@jpeg",
     "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k4jt6heuiamymgi46yeuxtpt/bafkreihfsmuswyvvs7dl5ps3at4lxvy5xq6ntyshnjzqman5z3ok4fx5ua@jpeg"
   },
-      {
+  {
     "mediaSource": "motherjones",
     "did": "did:plc:qobvnkudcv3zlaklxxjduqoi",
     "handle": "motherjones.com",
@@ -126,7 +126,7 @@
     "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qobvnkudcv3zlaklxxjduqoi/bafkreid6acad5p3ojgafhsbkuxukpwh3spso7brpag3mq32pj7da2jke6e@jpeg",
     "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qobvnkudcv3zlaklxxjduqoi/bafkreidt7bfcqo5nvhmdsfchcc7cpl3uc7vnnl75g4oejnaqrj3vjtfzcq@jpeg"
   },
-        {
+  {
     "mediaSource": "revealnews",
     "did": "did:plc:k4maxxm5bzs2v3dl7owporyy",
     "handle": "revealnews.org",
@@ -134,5 +134,23 @@
     "type": "news",
     "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k4maxxm5bzs2v3dl7owporyy/bafkreibwatgh6prxt2jvtrhvw4l22rdbjrwmtdrlhyh6uf3yatgzqqbwg4@jpeg",
     "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k4maxxm5bzs2v3dl7owporyy/bafkreidgfat6pszxoqee5vuajfor6q2qa3mfhb4bg6oron57mun2cas74a@jpeg"
+  },
+  {
+    "mediaSource": "restofworld",
+    "did": "did:plc:hbdc3q6k5lforao5vyuarvsp",
+    "handle": "restofworld.org",
+    "displayName": "Rest of World",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hbdc3q6k5lforao5vyuarvsp/bafkreibjbyl3r35piihkzlula7ahanumfoab6wl2iutleno4csw6vf5xum@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hbdc3q6k5lforao5vyuarvsp/bafkreihgcc3lpyquv5l6q6t7ef2uvootftuqt23lrmj3l67kkkxklowscm@jpeg"
+  },
+  {
+    "mediaSource": "themarkup",
+    "did": "did:plc:4ouag44vqmtjvbg3x2ph5u6o",
+    "handle": "themarkup.org",
+    "displayName": "The Markup",
+    "type": "technology",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ouag44vqmtjvbg3x2ph5u6o/bafkreiegdwlpuathbud53dppigiau6zwtn45lewj4gmbkcft2uquljt6xy@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ouag44vqmtjvbg3x2ph5u6o/bafkreid5zexnnu3prinpatry6bh4czwsppkjeft426v47bhzyswqsjba4y@jpeg"
   }
 ]
