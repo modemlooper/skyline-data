@@ -152,5 +152,14 @@
     "type": "technology",
     "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ouag44vqmtjvbg3x2ph5u6o/bafkreiegdwlpuathbud53dppigiau6zwtn45lewj4gmbkcft2uquljt6xy@jpeg",
     "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ouag44vqmtjvbg3x2ph5u6o/bafkreid5zexnnu3prinpatry6bh4czwsppkjeft426v47bhzyswqsjba4y@jpeg"
+  },
+  {
+    "mediaSource": "missionlocal",
+    "did": "did:plc:4r42hbtyzfmbblk6u55uqzes",
+    "handle": "missionlocal.org",
+    "displayName": "Mission Local",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4r42hbtyzfmbblk6u55uqzes/bafkreia2dn6b7en3h5uecvg26ghz5l6qe5wtab7fpzmkyuy4pnilgxmztm@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4r42hbtyzfmbblk6u55uqzes/bafkreiamqudqglyn6d4prkki7edpmidhdkbas434jlepleg7mhlujcv2ve@jpeg"
   }
 ]
