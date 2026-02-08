@@ -170,5 +170,14 @@
     "type": "businees",
     "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:azsiq6a5plbpa7ekw7pdrnum/bafkreiai7si76ocpq63y2ji6n2l5jjgtvc4pjbtftgzrwtqwfi2oqlivvm@jpeg",
     "banner": ""
+  },
+  {
+    "mediaSource": "huffpost",
+    "did": "did:plc:j4eroku3volozvv6ljsnnfec",
+    "handle": "huffpost.com",
+    "displayName": "Huff Post",
+    "type": "news",
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j4eroku3volozvv6ljsnnfec/bafkreidny35lfkql2fpsqoxpqguhnl2ixaj5ou7qw4jprrrflkxtytmxsm@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j4eroku3volozvv6ljsnnfec/bafkreig7gzjpib6pcmbzf6hfs2nm2l3ali5uv7gznbqzjtiajbvxncvbui@jpeg"
   }
 ]
