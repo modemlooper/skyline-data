@@ -189,5 +189,15 @@
     "urls": ["trib.al"],
     "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jszy2fvtipwprnjhe7pxytfv/bafkreibtywgxdgg4wstf6s5tj2rzyxqaunlml4xovhgraj3xmvwp2izwem@jpeg",
     "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jszy2fvtipwprnjhe7pxytfv/bafkreidw7ujujwapcvhwwwpn6oai6xvvyj7fvcu344o5brkc6757cojarq@jpeg"
+  },
+  {
+    "mediaSource": "wired",
+    "did": "did:plc:inz4fkbbp7ms3ixufw6xuvdi",
+    "handle": "wired.com",
+    "displayName": "Wired",
+    "type": "technology",
+    "urls": [],
+    "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreifrsmtmuymsd7trfqapt6rj32cjmq4yqahgrgmfck3rh2xbgfeh64@jpeg",
+    "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreic6s7ofjxwachrcwidg5vsqlpfo4mtlaklevtqye4bnhwrmk3w6jq@jpeg"
   }
 ]
