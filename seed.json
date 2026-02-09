@@ -196,7 +196,7 @@
     "handle": "wired.com",
     "displayName": "Wired",
     "type": "technology",
-    "urls": [],
+    "urls": ["wrd.cm"],
     "avatar": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreifrsmtmuymsd7trfqapt6rj32cjmq4yqahgrgmfck3rh2xbgfeh64@jpeg",
     "banner": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreic6s7ofjxwachrcwidg5vsqlpfo4mtlaklevtqye4bnhwrmk3w6jq@jpeg"
   }
